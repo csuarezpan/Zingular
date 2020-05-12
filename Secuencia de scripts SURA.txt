@@ -1,0 +1,15 @@
+@C:\TEMP\sura\01-vw_corredores_sigma.sql	
+@C:\TEMP\sura\02-vw_polizas_con_Saldo.sql	
+@C:\TEMP\sura\03-vw_polizas_sigma.sql	
+@C:\TEMP\sura\04-vw_polizas_sigma_renovacion.sql	
+@C:\TEMP\sura\04.1-unificacion_de_zonas.sql	
+@C:\TEMP\sura\04.2-buscar_no_imprimible.fnc	
+@C:\TEMP\sura\05-informacion_para_migracion.sql	
+@C:\TEMP\sura\06-JOB_GENERA_RECIBOS_VIDA_ACH_TC.sql	
+@C:\TEMP\sura\07-BS_K_CTRL_DOCUMENTOS.pck	
+@C:\TEMP\sura\08-BS_T_CRTL_DOCUMENTACION.trg	
+@C:\TEMP\sura\09-modifica_constraint_doc_cobros_hcis.sql	
+@C:\TEMP\sura\10-bs_cierre_eventos.prc	
+@C:\TEMP\sura\11-manejo_pc_automatico.pck	
+@C:\TEMP\sura\12-bs_envio_documentacion_oper.prc	
+@C:\TEMP\sura\13-ALTER_PXC_PROVEEDOR.sql	
